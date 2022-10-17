@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="492b69a0-0c3f-4be5-8038-bb4611a6d315" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ServerLr/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ServerLr/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ServerLr/VehicleRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ServerLr/VehicleResponse.java" afterDir="false" />
+    <list default="true" id="492b69a0-0c3f-4be5-8038-bb4611a6d315" name="Changes" comment="Network">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ServerLr/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ServerLr/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ServerLr/VehicleResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ServerLr/VehicleResponse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,8 +97,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665949755194</updated>
-      <workItem from="1665949757494" duration="13560000" />
+      <workItem from="1665949757494" duration="14912000" />
     </task>
+    <task id="LOCAL-00001" summary="Network">
+      <created>1665984282413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665984282413</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,5 +122,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Network" />
+    <option name="LAST_COMMIT_MESSAGE" value="Network" />
   </component>
 </project>

@@ -28,7 +28,7 @@ public class VehicleResponse implements Serializable {
             cleanCode += ", " + options[i] ;
         }
 
-        message = request.message +" miles: "+milesOnVehicle+" price:"+price+" seats: "+numberOfSeats + " doors:  " + numberOfDoors + " options: " + cleanCode ;
+        message = request.message +" miles: "+milesOnVehicle+" price:"+price+" seats: "+numberOfSeats + " doors:" + numberOfDoors + " options: " + cleanCode ;
 
     }
 

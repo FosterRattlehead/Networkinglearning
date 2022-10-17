@@ -15,7 +15,7 @@ public class Client {
 
         VehicleRequest vehicleRequest = new VehicleRequest(1970, "Dodge", "Dart" );
         outStream.writeObject(vehicleRequest);
-        outStream.flush();
+
 
         VehicleResponse receiveResponse = (VehicleResponse)inStram.readObject();
 
